@@ -1,5 +1,4 @@
 ## Programming fundamental concepts
-Ставимо тільки один левел
 
 - Syntax and concepts
   - value: 🖐 used 
