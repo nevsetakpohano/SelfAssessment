@@ -1,47 +1,48 @@
 ## Programming fundamental concepts
+Ставимо тільки один левел
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
+  - value: 🖐 used 
+  - identifier: 🖐 used 
+  - variable: 🖐 used 
+  - constant: 🖐 used 
+  - scalar: 🖐 used 
+  - literal: 🖐 used 
+  - expression: 🖐 used 
   - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
+  - function: 🖐 used 
+  - procedure: 🖐 used 
+  - method: 🖐 used 
+  - class: 🖐 used 
+  - prototype: 👂 heard
+  - event: 👂 heard
+  - type: 🖐 used 
+  - primitive types: 🖐 used 
+  - reference types: 🖐 used 
+  - flag: 🖐 used 
   - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
+  - code block: 🖐 used 
+  - conditions: 🖐 used 
+  - loops: 🖐 used 
+  - assignment: 🖐 used 
   - regular expression
-  - interface
+  - interface: 🖐 used
   - contract
-  - module
-  - call stack
+  - module: 👂 heard
+  - call stack: 👂 heard
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
+  - signature: 🖐 used 
+  - argument: 🖐 used 
+  - parameter: 🖐 used 
+  - pure function: 👂 heard
   - lambda expression
-  - side effects
-  - closure
+  - side effects: 👂 heard
+  - closure: 👂 heard
   - partial application
   - curry
   - higher order
-  - recursion
-  - callback
+  - recursion: 🖐 used 
+  - callback: 🖐 used 
   - listener
   - compose
   - pipe
@@ -53,42 +54,42 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array: 🖐 used 
+  - structure: 👂 heard
   - record
   - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
+  - instance: 👂 heard
+  - object: 🖐 used 
+  - class: 🖐 used 
+  - collection: 🖐 used
+  - set: 👂 heard
   - hash table
-  - linked list
-  - doubly list
+  - linked list: 👂 heard
+  - doubly list: 👂 heard
   - unrolled list
-  - circular list
+  - circular list: 👂 heard
   - queue
   - stack
   - deque
-  - tree
-  - graph
+  - tree: 👂 heard
+  - graph: 👂 heard
   - iterator
   - mutable state
   - immutable state
   - serialization
-  - string parsing
+  - string parsing 
 - Process & style
-  - compiler
+  - compiler: 🖐 used
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger: 🖐 used
   - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
+  - refactoring: 👂 heard
+  - code review: 👂 heard
+  - antipatterns: 👂 heard
   - paradigm
-  - algorithm
+  - algorithm: 🖐 used 
   - magic numbers
   - hardcode
   - complexity
@@ -102,5 +103,5 @@
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git: 🖐 used 
+  - github: 🖐 used
