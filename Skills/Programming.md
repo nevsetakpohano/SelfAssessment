@@ -1,24 +1,30 @@
 ## Programming fundamental concepts
-
+👂 heard
+🎓 known
+🖐️ used
+🙋 explained
+📢 talked
+🔬 researched
+🚀 constructed
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
+  - value-🖐️ used
+  - identifier -🖐️ used
+  - variable -🖐️ used
+  - constant -🖐️ used
+  - scalar - 👂 heard
+  - literal - 🖐️ used
+  - expression - 🖐️ used
+  - heap 
+  - function - 🖐️ used
+  - procedure - 🎓 known
+  - method - 🖐️ used
+  - class - 🖐️ used
+  - prototype - 👂 heard
+  - event - 🖐️ used
+  - type - 🖐️ used
+  - primitive types - 👂 heard
+  - reference types - 👂 heard
+  - flag - 👂 heard
   - lexical scope
   - code block
   - conditions
@@ -27,50 +33,50 @@
   - regular expression
   - interface
   - contract
-  - module
+  - module - 🖐️ used
   - call stack
 - Functions
   - signature
-  - argument
-  - parameter
+  - argument -🖐️ used
+  - parameter - 
   - pure function
   - lambda expression
-  - side effects
+  - side effects - 
   - closure
   - partial application
   - curry
   - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
+  - recursion -🖐️ used
+  - callback - 🖐️ used
+  - listener - 🖐️ used
+  - compose - 
   - pipe
   - memoize
   - wrapper
   - functor
   - monad
-  - monoid
+  - monoid 
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array - 🙋 explained
+  - structure - 
   - record
   - enum
   - instance
-  - object
-  - class
+  - object - 🙋 explained
+  - class - 
   - collection
   - set
-  - hash table
+  - hash table - 🎓 known
   - linked list
   - doubly list
   - unrolled list
   - circular list
-  - queue
+  - queue 
   - stack
   - deque
-  - tree
+  - tree - 👂 heard
   - graph
   - iterator
   - mutable state
@@ -78,17 +84,17 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler - 🎓 known
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger - 👂 heard
   - garbage collection
   - refactoring
   - code review
   - antipatterns
-  - paradigm
-  - algorithm
+  - paradigm - 👂 heard
+  - algorithm - 👂 heard
   - magic numbers
   - hardcode
   - complexity
@@ -102,5 +108,5 @@
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git - 👂 heard
+  - github - 🎓 known
