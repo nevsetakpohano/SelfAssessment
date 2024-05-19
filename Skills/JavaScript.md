@@ -1,25 +1,24 @@
 ## JavaScript
-
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
   - `BigInt`
-  - `String`
+  - `String`: 🖐️ used
   - `Symbol`
   - `Infinity`
   - `NaN`
   - `undefined`
   - `null`
-  - `this`
+  - `this`: 👂 heard
   - `instanceof`
   - `...spread`
   - `...rest`
   - `typeof`
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators: 🖐️ used
   - Async generator
   - Async iterator
   - Chaining
@@ -59,15 +58,15 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
   - `for..in`
   - `for..of`
   - `for await`
   - `throw`
-  - `break`
+  - `break`: 🖐️ used
   - `continue`
   - `import`
   - `export`
@@ -79,10 +78,10 @@
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function: 👂 heard
   - Async function
-  - Function declaration
-  - Function expression
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
   - Default parameters
   - Functional object
   - `Function.prototype.call`
@@ -90,7 +89,7 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
+  - `Array`: 🖐️ used
   - `Map`
   - `Set`
   - `WeakMap`
