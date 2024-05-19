@@ -1,12 +1,4 @@
 ## Programming fundamental concepts
-🙋 explained
-🖐️ used
-👂 heard 
-🖐️ used 
-🎓 known
-
-
-
 
 - Concepts
   - Model
