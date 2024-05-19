@@ -1,5 +1,4 @@
 ## Programming fundamental concepts
-
 - Concepts
   - Model
   - Modeling
@@ -36,18 +35,18 @@
   - Identifier: 🖐️ used
   - Variable: 🖐️ used
   - Constant: 🖐️ used
-  - Scalar
-  - Literal
+  - Scalar 🖐️ used
+  - Literal 🖐️ used
   - Expression: 🖐️ used
-  - Heap
+  - Heap 👂 heard
   - Function: 🖐️ used
-  - Procedure
-  - Method
-  - Class
+  - Procedure 🖐️ used
+  - Method 🖐️ used
+  - Class 🖐️ used
   - Prototype
-  - Event
+  - Event 🖐️ used
   - Type: 🖐️ used
-  - Flag
+  - Flag 
   - Lexical scope
   - Code block
   - Conditions: 🖐️ used
@@ -91,14 +90,14 @@
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion 🖐️ used
   - Tail call optimisation
   - Callback
   - Listener
   - Composition
   - Pipe
   - Memoize
-  - Wrapper
+  - Wrapper 🖐️ used
   - Functor
   - Monad
   - Monoid
@@ -106,7 +105,7 @@
   - Coroutine
 - Data structures
   - Array: 🖐️ used
-  - Structure
+  - Structure 🖐️ used
   - Record
   - Enum
   - Instance
@@ -114,16 +113,16 @@
   - Collection
   - Set
   - Hash table
-  - Linked list
+  - Linked list 🖐️ used
   - Doubly list
   - Unrolled list
-  - Circular list
+  - Circular list 🖐️ used
   - Queue
   - Stack
   - Deque
   - Tree
-  - Graph
-  - Iterator
+  - Graph 🖐️ used
+  - Iterator 🖐️ used
   - Mutable state
   - Immutable state
   - Serialization
@@ -171,19 +170,19 @@
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers 👂 heard
+  - Hard code 👂 heard
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti 👂 heard
   - Silver bullet
   - Not invented here
   - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Unreachable code 👂 heard
+  - Duplicate code 👂 heard
   - Premature optimization
   - Micro-optimization
   - Nested loops
