@@ -35,18 +35,18 @@
   - Identifier: 🖐️ used
   - Variable: 🖐️ used
   - Constant: 🖐️ used
-  - Scalar 🖐️ used
-  - Literal 🖐️ used
+  - Scalar: 🖐️ used
+  - Literal: 🖐️ used
   - Expression: 🖐️ used
-  - Heap 👂 heard
+  - Heap: 👂 heard
   - Function: 🖐️ used
-  - Procedure 🖐️ used
-  - Method 🖐️ used
-  - Class 🖐️ used
+  - Procedure: 🖐️ used
+  - Method: 🖐️ used
+  - Class: 🖐️ used
   - Prototype
-  - Event 🖐️ used
+  - Event: 🖐️ used
   - Type: 🖐️ used
-  - Flag 
+  - Flag
   - Lexical scope
   - Code block
   - Conditions: 🖐️ used
@@ -90,14 +90,14 @@
   - Partial application
   - Currying
   - Higher order
-  - Recursion 🖐️ used
+  - Recursion: 🖐️ used
   - Tail call optimisation
   - Callback
   - Listener
   - Composition
   - Pipe
   - Memoize
-  - Wrapper 🖐️ used
+  - Wrapper: 🖐️ used
   - Functor
   - Monad
   - Monoid
@@ -105,7 +105,7 @@
   - Coroutine
 - Data structures
   - Array: 🖐️ used
-  - Structure 🖐️ used
+  - Structure: 🖐️ used
   - Record
   - Enum
   - Instance
@@ -113,16 +113,16 @@
   - Collection
   - Set
   - Hash table
-  - Linked list 🖐️ used
+  - Linked list: 🖐️ used
   - Doubly list
   - Unrolled list
-  - Circular list 🖐️ used
+  - Circular list: 🖐️ used
   - Queue
   - Stack
   - Deque
   - Tree
-  - Graph 🖐️ used
-  - Iterator 🖐️ used
+  - Graph: 🖐️ used
+  - Iterator: 🖐️ used
   - Mutable state
   - Immutable state
   - Serialization
@@ -170,19 +170,19 @@
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers 👂 heard
-  - Hard code 👂 heard
+  - Magic numbers: 👂 heard
+  - Hard code: 👂 heard
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti 👂 heard
+  - Spaghetti: 👂 heard
   - Silver bullet
   - Not invented here
   - Dead code
-  - Unreachable code 👂 heard
-  - Duplicate code 👂 heard
+  - Unreachable code: 👂 heard
+  - Duplicate code: 👂 heard
   - Premature optimization
   - Micro-optimization
   - Nested loops
