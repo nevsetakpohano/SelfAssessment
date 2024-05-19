@@ -4,26 +4,26 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm 🖐️ used 
-  - Syntax 🖐️ used 
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm 🖐️ used 
+  - Programm: 🖐️ used
   - Programming paradigm
-  - Programming language 🖐️ used 
+  - Programming language: 🖐️ used
   - Contract
   - Module
-  - Library 🖐️ used 
+  - Library: 🖐️ used
   - Package
   - Component
-  - Framework 👂 heard
+  - Framework: 👂 heard
   - Platform
   - Source code
-  - Object code 
+  - Object code
   - Machine code
   - Microcode
-  - Software engineering 🖐️ used
+  - Software engineering: 🖐️ used
   - Decomposition
   - Control flow
   - Data flow
@@ -32,28 +32,28 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value 🖐️ used
-  - Identifier 🖐️ used
-  - Variable 🖐️ used
-  - Constant 🖐️ used
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
   - Literal
-  - Expression 🖐️ used
+  - Expression: 🖐️ used
   - Heap
-  - Function 🖐️ used
+  - Function: 🖐️ used
   - Procedure
   - Method
   - Class
   - Prototype
   - Event
-  - Type 🖐️ used
+  - Type: 🖐️ used
   - Flag
   - Lexical scope
   - Code block
-  - Conditions 🖐️ used
-  - Loops 🖐️ used
-  - Assignment 🖐️ used
-  - Regular expression 🖐️ used
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
+  - Regular expression: 🖐️ used
   - Interface
   - Namespaces
   - Call stack
@@ -66,7 +66,7 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types 🖐️ used
+  - Primitive types: 🖐️ used
   - Reference types
   - Type systems
   - Strong typing
@@ -81,10 +81,10 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature 🖐️ used
-  - Argument 🖐️ used
-  - Parameter 🖐️ used
-  - Pure function 🖐️ used
+  - Signature: 🖐️ used
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function: 🖐️ used
   - Lambda expression
   - Side effects
   - Closure
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array 🖐️ used
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
   - Instance
-  - Object 🖐️ used
+  - Object: 🖐️ used
   - Collection
   - Set
   - Hash table
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler 🖐️ used
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,22 +157,22 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger 🖐️ used
+  - Debugger: 🖐️ used
   - Tracing
   - Garbage collection
-  - Refactoring 🖐️ used
-  - Code review 🖐️ used
+  - Refactoring: 🖐️ used
+  - Code review: 🖐️ used
   - Exception
   - Unittesting
-  - git 🖐️ used
-  - Github 🖐️ used
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
   - Magic numbers
-  - Hard code 
+  - Hard code
   - Soft code
   - Cryptic code
   - Improbability factor
