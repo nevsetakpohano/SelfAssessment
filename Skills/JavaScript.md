@@ -9,13 +9,13 @@
   - `Symbol`
   - `Infinity`
   - `NaN`
-  - `undefined`
-  - `null`
-  - `this`: 👂 heard
+  - `undefined`🖐️ used
+  - `null` 🖐️ used
+  - `this`: 🖐️ used
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof`🖐️ used
   - Destructuring
   - Generators
   - Iterators: 🖐️ used
@@ -27,15 +27,15 @@
   - Async IIFE
   - `global`
   - `globalThis`
-  - `window`
+  - `window` 🖐️ used
   - Getters and setters
   - `__proto__`
   - `prototype`
   - Equality operators
-  - Logical operators
+  - Logical operators 🖐️ used
   - Logical Assignment
   - Bitwise operators
-  - Ternary operator
+  - Ternary operator 👂 heard
   - `void`
   - `yield`
   - `await`
@@ -63,22 +63,22 @@
   - `do..while`: 🖐️ used
   - `for`: 🖐️ used
   - `for..in`
-  - `for..of`
+  - `for..of` 👂 heard
   - `for await`
   - `throw`
   - `break`: 🖐️ used
   - `continue`
-  - `import`
+  - `import` 🖐️ used
   - `export`
   - `label`
   - `try..catch`
-  - `switch`
-  - `class`
+  - `switch` 🖐️ used
+  - `class` 🖐️ used
   - `extends`
   - `with`
-  - `new`
+  - `new` 🖐️ used
 - Functions
-  - Arrow function: 👂 heard
+  - Arrow function: 🖐️ used
   - Async function
   - Function declaration: 🖐️ used
   - Function expression: 🖐️ used
@@ -101,7 +101,7 @@
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math`
+  - `Math` 🖐️ used
   - `Reflect`
   - `Error`
   - `Atomics`
@@ -110,8 +110,8 @@
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
-  - Timers
+  - `console` 🖐️ used
+  - Timers 🖐️ used
 - Infrastructure
   - V8
   - Node.js
